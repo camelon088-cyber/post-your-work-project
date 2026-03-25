@@ -1,15 +1,8 @@
 markdown
 # Bikeshare Data Analysis Project 🚲
 
-This project analyzes usage data from bicycle-sharing systems in major cities (e.g., Chicago, New York City, and Washington). Using Python, it explores how rental durations, popular stations, and user profiles vary by city and time period.
+This project is a Python-based data analysis tool that explores bikeshare system data from major cities like Chicago, New York City, and Washington. It automates the process of loading raw CSV data and computing descriptive statistics to uncover usage patterns, peak times, and user demographics.
 
-## 📋 Table of Contents
-- [About the Project](#about-the-project)
-- [Key Features](#key-features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dataset Details](#dataset-details)
 
 ## 🎯 About the Project
 The goal of this tool is to process raw CSV data from bikesharing systems and provide statistical insights. It identifies patterns in user behavior, such as peak travel hours or the most frequent routes.
