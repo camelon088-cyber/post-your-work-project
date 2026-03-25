@@ -16,7 +16,7 @@ The goal of this tool is to process raw CSV data from bikesharing systems and pr
 
 ## 💻 Requirements
 To run this project, you will need the following:
-- **Software**: Python 3.8 or higher.
+- **Software**: Python 3.9 or higher.
 - **Libraries**: 
   - `pandas` (for data manipulation)
   - `numpy` (for numerical operations)
